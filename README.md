@@ -14,11 +14,3 @@ Thank you for taking the time to explore my portfolio website. I hope you enjoy 
 ***
 A list of technologies used within the project:
 * React Js (version 18)
-
-* Third point
-3. **Third question in bold**
-Answer to the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
